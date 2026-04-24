@@ -1,22 +1,26 @@
-<h1 align="center">Leandro A. B. Vieira 👋</h1>
-<h3 align="center">Full Stack Developer 💻</h3>
+<h1 align="center">Leandro A. B. Vieira</h1>
+<h3 align="center">
+💻| Full Stack | Backend | APIs | Software Architecture | DevOps
+</h3>
 
-IT Management graduate, currently specializing in Software Architecture.  
-Always learning new languages, frameworks and tools. Also a music producer on the side. 🎧
-
----
-
-## 🛠 Tech Skills
-
-Node.js | NestJS | FastAPI | React | Next.js | Angular | TailwindCSS  
-PostgreSQL | SQLite | Docker | GitHub Actions | Git  
-TensorFlow | Keras | Python
+IT Management graduate, specializing in Software Architecture.  
+Builds scalable systems, high-performance APIs, and automation pipelines with focus on reliability and maintainability.
 
 ---
 
-## 📈 Focus
+## Skills
 
-Software Architecture | Backend & APIs | Automation | DevOps & CI/CD | Cybersecurity
+**Backend:** Node.js, NestJS, FastAPI, Python  
+**Frontend:** React, Next.js, Angular, TailwindCSS  
+**Database:** PostgreSQL, SQLite  
+**DevOps:** Docker, GitHub Actions, CI/CD  
+**AI:** TensorFlow, Keras  
+
+---
+
+## Focus
+
+Software Architecture • Backend • API Design • Automation • DevOps • Cybersecurity
 
 ---
 
