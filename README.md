@@ -1,26 +1,37 @@
 <h1 align="center">Leandro A. B. Vieira</h1>
 <h3 align="center">
-💻| Full Stack | Backend | APIs | Software Architecture | DevOps
+Full Stack Engineer | Backend Systems | APIs | Software Architecture | DevOps
 </h3>
 
+Software Engineer focused on building scalable, reliable, and maintainable systems.  
 IT Management graduate, specializing in Software Architecture.  
-Builds scalable systems, high-performance APIs, and automation pipelines with focus on reliability and maintainability.
+Experience in backend development, API design, and automation, with emphasis on performance, clean architecture, and production-ready solutions.
 
 ---
 
-## Skills
+## Technical Skills
 
-**Backend:** Node.js, NestJS, FastAPI, Python  
+**Backend & APIs:** Node.js, NestJS, FastAPI, Python, REST  
 **Frontend:** React, Next.js, Angular, TailwindCSS  
-**Database:** PostgreSQL, SQLite  
-**DevOps:** Docker, GitHub Actions, CI/CD  
-**AI:** TensorFlow, Keras  
+**Data:** PostgreSQL, SQLite  
+**DevOps & Infrastructure:** Docker, GitHub Actions, CI/CD  
+**AI / Data:** TensorFlow, Keras  
 
 ---
 
-## Focus
+## Core Areas
 
-Software Architecture • Backend • API Design • Automation • DevOps • Cybersecurity
+Software Architecture • Backend Engineering • API Design • System Design  
+Automation • DevOps • Scalability • Cybersecurity  
+
+---
+
+## Engineering Focus
+
+- Design and development of scalable backend services  
+- Implementation of high-performance APIs  
+- Automation of workflows and CI/CD pipelines  
+- Maintainability, performance, and system reliability  
 
 ---
 
