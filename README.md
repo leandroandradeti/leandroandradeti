@@ -1,4 +1,4 @@
-<h1 align="center">Leandro A. B. Vieira</h1>
+<h1 align="center">Leandro Andrade</h1>
 <h3 align="center">
 Full Stack Engineer | Backend Systems | APIs | Software Architecture | DevOps
 </h3>
