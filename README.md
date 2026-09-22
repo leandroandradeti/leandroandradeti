@@ -29,8 +29,8 @@ Projetos de aplicações web, APIs e automações.
 ## Formação
 
 **Pós-Graduação em Arquitetura de Software** — FACENS
-**Tecnólogo em Gestão da Tecnologia da Informação** — FACENS, 2024
+**Graduado em Gestão da Tecnologia da Informação** — FACENS, 2024
 
 ## Links
 
-[LinkedIn](https://linkedin.com/in/leandroandradeti) · [GitHub](https://github.com/leandroandradeti)
+[LinkedIn](https://linkedin.com/in/leandroandradeti)
