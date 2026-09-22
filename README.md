@@ -1,89 +1,36 @@
 # Leandro Andrade
 
-**Desenvolvedor Full Stack | Backend | APIs | Arquitetura de Software**
+**Full Stack Developer | Backend | APIs | Software Architecture**
 
-Desenvolvedor focado na construção de aplicações web, APIs e sistemas backend, com interesse em arquitetura de software, automação e soluções escaláveis.
+Desenvolvedor focado em aplicações web, APIs, automação e arquitetura de software.
 
 ## Stack
 
-### Backend
-
-* Node.js
-* NestJS
-* Python
-* FastAPI
-* REST APIs
-
-### Frontend
-
-* React
-* Next.js
-* Angular
-* Tailwind CSS
-
-### Banco de Dados
-
-* MariaDB
-* PostgreSQL
-* SQLite
-* MySQL
-
-### DevOps
-
-* Docker
-* GitHub Actions
-* CI/CD
-* Git
-
-### Inteligência Artificial
-
-* Python
-* TensorFlow
-* Keras
-* Machine Learning
-
-## Desenvolvimento
-
-* Desenvolvimento de aplicações Full Stack
-* Desenvolvimento de APIs REST
-* Sistemas e serviços Backend
-* Integração entre sistemas
-* Automação de processos
-* Arquitetura e organização de aplicações
-* Desenvolvimento de sistemas web
-* Integração com bancos de dados
-* CI/CD e containerização
+**Backend:** Node.js, NestJS, Python, FastAPI
+**Frontend:** React, Next.js, Angular, Tailwind CSS
+**Database:** PostgreSQL, MySQL, SQLite
+**DevOps:** Docker, GitHub Actions, CI/CD
+**AI:** TensorFlow, Keras
 
 ## Projetos
 
-### Builder Tools
+**Builder Tools**
+Sistema web para gestão de locação de ferramentas e equipamentos.
+`Node.js` `NestJS` `React` `PostgreSQL` `Docker`
 
-Sistema web para gerenciamento de locação de ferramentas e equipamentos.
+**Image Classifier**
+Aplicação de classificação de imagens utilizando Machine Learning.
+`Python` `TensorFlow` `Keras` `Streamlit`
 
-**Stack:** Node.js, NestJS, React, PostgreSQL, Docker
-
-### Image Classifier
-
-Aplicação para classificação de imagens utilizando modelos de Machine Learning.
-
-**Stack:** Python, TensorFlow, Keras, Streamlit
-
-### Sistemas Web e APIs
-
-Projetos de desenvolvimento de aplicações web, APIs e automações utilizando diferentes tecnologias do ecossistema JavaScript/TypeScript e Python.
-
-**Stack:** Node.js, NestJS, React, Next.js, Python, FastAPI, PostgreSQL, SQLite
+**Web Systems & APIs**
+Projetos de aplicações web, APIs e automações.
+`Node.js` `NestJS` `React` `Next.js` `Python` `FastAPI`
 
 ## Formação
 
-**Pós-Graduação em Arquitetura de Software**
-FACENS — Em andamento
+**Pós-Graduação em Arquitetura de Software** — FACENS
+**Tecnólogo em Gestão da Tecnologia da Informação** — FACENS, 2024
 
-**Tecnólogo em Gestão da Tecnologia da Informação**
-FACENS — 2024
+## Links
 
-## Contato
-
-LinkedIn: https://linkedin.com/in/leandroandradeti
-
-E-mail: [leandroo23113@gmail.com](mailto:leandroo23113@gmail.com)
+[LinkedIn](https://linkedin.com/in/leandroandradeti) · [GitHub](https://github.com/leandroandradeti)
