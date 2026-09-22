@@ -19,7 +19,7 @@ Sistema web para gestão de locação de ferramentas e equipamentos.
 `Node.js` `NestJS` `React` `PostgreSQL` `Docker`
 
 **Image Classifier**
-Aplicação de classificação de imagens utilizando Machine Learning.
+Aplicação utilizando Machine Learning.
 `Python` `TensorFlow` `Keras` `Streamlit`
 
 **Web Systems & APIs**
