@@ -22,9 +22,9 @@ Sistema web para gestão de locação de ferramentas e equipamentos.
 Aplicação utilizando Machine Learning.
 `Python` `TensorFlow` `Keras` `Streamlit`
 
-**Web Systems & APIs**
-Projetos de aplicações web, APIs e automações.
-`Node.js` `NestJS` `React` `Next.js` `Python` `FastAPI`
+**Chamados TI**
+Aplicação Full Stack para gestão de chamados e ativos de TI, com SLA, RBAC, API REST, autenticação, auditoria e base de conhecimento.
+Node.js Express React PostgreSQL Sequelize JWT Material UI Zustand React Query
 
 ## Formação
 
