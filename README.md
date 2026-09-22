@@ -1,47 +1,89 @@
-<h1 align="center">Leandro Andrade</h1>
-<h3 align="center">
-Full Stack Engineer | Backend Systems | APIs | Software Architecture | DevOps
-</h3>
+# Leandro Andrade
 
-Software Engineer focused on building scalable, reliable, and maintainable systems.  
-IT Management graduate, specializing in Software Architecture.  
-Experience in backend development, API design, and automation, with emphasis on performance, clean architecture, and production-ready solutions.
+**Desenvolvedor Full Stack | Backend | APIs | Arquitetura de Software**
 
----
+Desenvolvedor focado na construção de aplicações web, APIs e sistemas backend, com interesse em arquitetura de software, automação e soluções escaláveis.
 
-## Technical Skills
+## Stack
 
-**Backend & APIs:** Node.js, NestJS, FastAPI, Python, REST  
-**Frontend:** React, Next.js, Angular, TailwindCSS  
-**Data:** PostgreSQL, SQLite  
-**DevOps & Infrastructure:** Docker, GitHub Actions, CI/CD  
-**AI / Data:** TensorFlow, Keras  
+### Backend
 
----
+* Node.js
+* NestJS
+* Python
+* FastAPI
+* REST APIs
 
-## Core Areas
+### Frontend
 
-Software Architecture • Backend Engineering • API Design • System Design  
-Automation • DevOps • Scalability • Cybersecurity  
+* React
+* Next.js
+* Angular
+* Tailwind CSS
 
----
+### Banco de Dados
 
-## Engineering Focus
+* MariaDB
+* PostgreSQL
+* SQLite
+* MySQL
 
-- Design and development of scalable backend services  
-- Implementation of high-performance APIs  
-- Automation of workflows and CI/CD pipelines  
-- Maintainability, performance, and system reliability  
+### DevOps
 
----
+* Docker
+* GitHub Actions
+* CI/CD
+* Git
 
-## 🔗 Links
+### Inteligência Artificial
 
-<p align="center">
-  <a href="https://linkedin.com/in/leandroandradeti">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:leandroo23113@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
+* Python
+* TensorFlow
+* Keras
+* Machine Learning
+
+## Desenvolvimento
+
+* Desenvolvimento de aplicações Full Stack
+* Desenvolvimento de APIs REST
+* Sistemas e serviços Backend
+* Integração entre sistemas
+* Automação de processos
+* Arquitetura e organização de aplicações
+* Desenvolvimento de sistemas web
+* Integração com bancos de dados
+* CI/CD e containerização
+
+## Projetos
+
+### Builder Tools
+
+Sistema web para gerenciamento de locação de ferramentas e equipamentos.
+
+**Stack:** Node.js, NestJS, React, PostgreSQL, Docker
+
+### Image Classifier
+
+Aplicação para classificação de imagens utilizando modelos de Machine Learning.
+
+**Stack:** Python, TensorFlow, Keras, Streamlit
+
+### Sistemas Web e APIs
+
+Projetos de desenvolvimento de aplicações web, APIs e automações utilizando diferentes tecnologias do ecossistema JavaScript/TypeScript e Python.
+
+**Stack:** Node.js, NestJS, React, Next.js, Python, FastAPI, PostgreSQL, SQLite
+
+## Formação
+
+**Pós-Graduação em Arquitetura de Software**
+FACENS — Em andamento
+
+**Tecnólogo em Gestão da Tecnologia da Informação**
+FACENS — 2024
+
+## Contato
+
+LinkedIn: https://linkedin.com/in/leandroandradeti
+
+E-mail: [leandroo23113@gmail.com](mailto:leandroo23113@gmail.com)
